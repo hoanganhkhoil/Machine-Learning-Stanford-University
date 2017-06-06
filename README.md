@@ -5,4 +5,4 @@ Including:
 - Linear Regression
 - Logistic Regression
 - Neuron Network (Feed Forward and Backpropagation)
-- Support Vector 
+- Support Vector Machine
